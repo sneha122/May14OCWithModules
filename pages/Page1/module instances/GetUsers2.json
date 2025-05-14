@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6824bc29282d9d462eb5c861_71dd4c7e-b743-4b6c-91b9-52cf66c34792",
+  "id": "Page1_GetUsers2",
+  "moduleUUID": "c35da2e8-65dc-4532-9d5b-c7179f0a9cfc",
+  "packageUUID": "49e35dc4-3ed1-49c4-98ec-438458736759",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "limit": "5"
+    },
+    "moduleInputs": {
+      "hxhseihelz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "5",
+        "id": "hxhseihelz",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
+    "name": "GetUsers2",
+    "pageId": "Page1"
+  }
+}
